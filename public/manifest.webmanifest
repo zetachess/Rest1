@@ -1,0 +1,13 @@
+{
+  "name": "Bar La Calle · Carta digital",
+  "short_name": "La Calle",
+  "description": "Carta digital de Bar La Calle en Móstoles",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f0e4",
+  "theme_color": "#234c3a",
+  "lang": "es",
+  "icons": [
+    { "src": "images/logo.webp", "sizes": "512x512", "type": "image/webp", "purpose": "any maskable" }
+  ]
+}
